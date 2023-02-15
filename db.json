@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Philips",
+      "category": "Washing Machine",
+      "quality": "Second Hand",
+      "price": 100000,
+      "comment": "send me immediately",
+      "date": "2023-02-21T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "category": "Laptop",
+      "quality": "Refurbished",
+      "price": 10000,
+      "comment": "sell good",
+      "date": "2023-02-27T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
